@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Caio Alexandre Reis de Almeida</h1>
 
-<!--
-**gaviusking/gaviusking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a title="twitter" href="https://twitter.com/gaviusking" target="_blank">
+<image alt="twitter" src="https://image.flaticon.com/icons/svg/145/145812.svg" width="40px"></image> 
+</a>
+<a title="instagram" href="https://instagram.com/ccaio_reis" target="_blank">
+<image alt="instagram" src="https://image.flaticon.com/icons/svg/187/187207.svg" width="40px"></image> 
+</a>
+<a title="twitch" href="https://twitch.tv/gaviusking" target="_blank">
+<image alt="twitch" src="https://image.flaticon.com/icons/svg/356/356001.svg" width="40px"></image> 
+</a>
+<a title="linkedin" href="https://br.linkedin.com/in/caio-alexandre-reis-de-almeida-8276171b2" target="_blank">
+<image alt="linkedin" src="https://image.flaticon.com/icons/svg/187/187185.svg" width="40px"></image> 
+</a>
+</p>
