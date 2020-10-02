@@ -14,3 +14,5 @@
 <image alt="linkedin" src="https://image.flaticon.com/icons/svg/187/187185.svg" width="40px"></image> 
 </a>
 </p>
+
+<image alt="github stats" src="https://github-readme-stats.vercel.app/api?username=caioreix&show_icons=true"/>
