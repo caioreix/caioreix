@@ -15,4 +15,7 @@
 </a>
 </p>
 
-<image alt="github stats" src="https://github-readme-stats.vercel.app/api?username=caioreix&show_icons=true"/>
+<p>
+<image align="center" alt="github most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioreix"/>
+<image align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=caioreix&show_icons=true"/>
+</p>
