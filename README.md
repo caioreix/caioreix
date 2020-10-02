@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Brazilian BackEnd Developer.</h3>
 
 <p align="center">
-<a href="#">
+<a href="/">
 <code><img title="Atom" alt="Atom" width="20" src="https://devicon.dev/devicon.git/icons/atom/atom-original.svg"></code>
 <code><img title="Bootstrap" alt="Bootstrap" width="20" src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg"></code>
 <code><img title="C" alt="C" width="20" src="https://devicon.dev/devicon.git/icons/c/c-original.svg"></code>
