@@ -1,6 +1,26 @@
-<h1 align="center">Caio Alexandre Reis de Almeida</h1>
+<h1 align="center">Hi 👋, I'm Caio</h1>
+<h3 align="center">I'm a Brazilian BackEnd Developer.</h3>
 
-<p>
+<p align="center">
+<code><img alt="Atom" width="20" src="https://devicon.dev/devicon.git/icons/atom/atom-original.svg"></code>
+<code><img alt="Bootstrap" width="20" src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg"></code>
+<code><img alt="C" width="20" src="https://devicon.dev/devicon.git/icons/c/c-original.svg"></code>
+<code><img alt="C++" width="20" src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img alt="Docker" width="20" src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg"></code>
+<code><img alt="Git" width="20" src="https://devicon.dev/devicon.git/icons/git/git-original.svg"></code>
+<code><img alt="Github" width="20" src="https://devicon.dev/devicon.git/icons/github/github-original.svg"></code>
+<code><img alt="Golang" width="20" src="https://devicon.dev/devicon.git/icons/go/go-original.svg"></code>
+<code><img alt="Javascript" width="20" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg"></code>
+<code><img alt="Linux" width="20" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg"></code>
+<code><img alt="MongoDB" width="20" src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg"></code>
+<code><img alt="MySQL" width="20" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg"></code>
+<code><img alt="Postgres" width="20" src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg"></code>
+<code><img alt="Python" width="20" src="https://devicon.dev/devicon.git/icons/python/python-original.svg"></code>
+<code><img alt="TypeScript" width="20" src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg"></code>
+<code><img alt="Windows" width="20" src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg"></code>
+</p>
+
+<p align="center">
 <image align="center" alt="github most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioreix&layout=compact&langs_count=8"/>
 <image align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=caioreix&show_icons=true"/>
 </p>
