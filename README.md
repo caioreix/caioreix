@@ -1,7 +1,7 @@
 <h1 align="center">Caio Alexandre Reis de Almeida</h1>
 
 <p>
-<image align="center" alt="github most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioreix&layout=compact"/>
+<image align="center" alt="github most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioreix&layout=compact&langs_count=8"/>
 <image align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=caioreix&show_icons=true"/>
 </p>
 
