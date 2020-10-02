@@ -2,22 +2,24 @@
 <h3 align="center">I'm a Brazilian BackEnd Developer.</h3>
 
 <p align="center">
-<code><img alt="Atom" width="20" src="https://devicon.dev/devicon.git/icons/atom/atom-original.svg"></code>
-<code><img alt="Bootstrap" width="20" src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg"></code>
-<code><img alt="C" width="20" src="https://devicon.dev/devicon.git/icons/c/c-original.svg"></code>
-<code><img alt="C++" width="20" src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img alt="Docker" width="20" src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg"></code>
-<code><img alt="Git" width="20" src="https://devicon.dev/devicon.git/icons/git/git-original.svg"></code>
-<code><img alt="Github" width="20" src="https://devicon.dev/devicon.git/icons/github/github-original.svg"></code>
-<code><img alt="Golang" width="20" src="https://devicon.dev/devicon.git/icons/go/go-original.svg"></code>
-<code><img alt="Javascript" width="20" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg"></code>
-<code><img alt="Linux" width="20" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg"></code>
-<code><img alt="MongoDB" width="20" src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg"></code>
-<code><img alt="MySQL" width="20" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg"></code>
-<code><img alt="Postgres" width="20" src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg"></code>
-<code><img alt="Python" width="20" src="https://devicon.dev/devicon.git/icons/python/python-original.svg"></code>
-<code><img alt="TypeScript" width="20" src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg"></code>
-<code><img alt="Windows" width="20" src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg"></code>
+<a href="#">
+<code><img title="Atom" alt="Atom" width="20" src="https://devicon.dev/devicon.git/icons/atom/atom-original.svg"></code>
+<code><img title="Bootstrap" alt="Bootstrap" width="20" src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg"></code>
+<code><img title="C" alt="C" width="20" src="https://devicon.dev/devicon.git/icons/c/c-original.svg"></code>
+<code><img title="C++" alt="C++" width="20" src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img title="Docker" alt="Docker" width="20" src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg"></code>
+<code><img title="Git" alt="Git" width="20" src="https://devicon.dev/devicon.git/icons/git/git-original.svg"></code>
+<code><img title="Github" alt="Github" width="20" src="https://devicon.dev/devicon.git/icons/github/github-original.svg"></code>
+<code><img title="Golang" alt="Golang" width="20" src="https://devicon.dev/devicon.git/icons/go/go-original.svg"></code>
+<code><img title="Javascript" alt="Javascript" width="20" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg"></code>
+<code><img title="Linux" alt="Linux" width="20" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg"></code>
+<code><img title="MongoDB" alt="MongoDB" width="20" src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg"></code>
+<code><img title="MySQL" alt="MySQL" width="20" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg"></code>
+<code><img title="Postgres" alt="Postgres" width="20" src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg"></code>
+<code><img title="Python" alt="Python" width="20" src="https://devicon.dev/devicon.git/icons/python/python-original.svg"></code>
+<code><img title="TypeScript" alt="TypeScript" width="20" src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg"></code>
+<code><img title="Windows" alt="Windows" width="20" src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg"></code>
+</a>
 </p>
 
 <p align="center">
