@@ -2,22 +2,25 @@
 <h3 align="center">I'm a Brazilian BackEnd Developer.</h3>
 
 <p align="center">
-<code><img title="Atom" alt="Atom" width="20" src="https://devicon.dev/devicon.git/icons/atom/atom-original.svg"></code>
-<code><img title="Bootstrap" alt="Bootstrap" width="20" src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg"></code>
-<code><img title="C" alt="C" width="20" src="https://devicon.dev/devicon.git/icons/c/c-original.svg"></code>
-<code><img title="C++" alt="C++" width="20" src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img title="Docker" alt="Docker" width="20" src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg"></code>
-<code><img title="Git" alt="Git" width="20" src="https://devicon.dev/devicon.git/icons/git/git-original.svg"></code>
-<code><img title="Github" alt="Github" width="20" src="https://devicon.dev/devicon.git/icons/github/github-original.svg"></code>
-<code><img title="Golang" alt="Golang" width="20" src="https://devicon.dev/devicon.git/icons/go/go-original.svg"></code>
-<code><img title="Javascript" alt="Javascript" width="20" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg"></code>
-<code><img title="Linux" alt="Linux" width="20" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg"></code>
-<code><img title="MongoDB" alt="MongoDB" width="20" src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg"></code>
-<code><img title="MySQL" alt="MySQL" width="20" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg"></code>
-<code><img title="Postgres" alt="Postgres" width="20" src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg"></code>
-<code><img title="Python" alt="Python" width="20" src="https://devicon.dev/devicon.git/icons/python/python-original.svg"></code>
-<code><img title="TypeScript" alt="TypeScript" width="20" src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg"></code>
-<code><img title="Windows" alt="Windows" width="20" src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg"></code>
+  <code><img title="AWS" alt="AWS" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg"></code>
+  <code><img title="Bash" alt="Bash" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/bash/bash-original.svg"></code>
+  <code><img title="C" alt="C" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/c/c-original.svg"></code>
+  <code><img title="C++" alt="C++" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
+  <code><img title="Docker" alt="Docker" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/docker/docker-original.svg"></code>
+  <code><img title="Git" alt="Git" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/git/git-original.svg"></code>
+  <code><img title="Golang" alt="Golang" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/go/go-original.svg"></code>
+  <code><img title="Google Cloud" alt="Google Cloud" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"></code>
+  <code><img title="Javascript" alt="Javascript" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
+  <code><img title="Jenkins" alt="Jenkins" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/jenkins/jenkins-original.svg"></code>
+  <code><img title="Kubernetes" alt="Kubernetes" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg"></code>
+  <code><img title="Linux" alt="Linux" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/linux/linux-original.svg"></code>
+  <code><img title="MongoDB" alt="MongoDB" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
+  <code><img title="MySQL" alt="MySQL" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
+  <code><img title="Nginx" alt="Nginx" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/nginx/nginx-original.svg"></code>
+  <code><img title="Postgres" alt="Postgres" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
+  <code><img title="Python" alt="Python" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/python/python-original.svg"></code>
+  <code><img title="Redis" alt="Redis" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/redis/redis-original.svg"></code>
+  <code><img title="TypeScript" alt="TypeScript" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
 </p>
 
 <p align="center">
