@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Caio</h1>
 <h3 align="center">I'm a Brazilian BackEnd Developer.</h3>
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/caioreix/caioreix"></a>
+</p>
 
 <p align="center">
   <code><img title="AWS" alt="AWS" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg"></code>
