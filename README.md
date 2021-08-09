@@ -25,23 +25,14 @@
   <code><img title="Redis" alt="Redis" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/redis/redis-original.svg"></code>
   <code><img title="TypeScript" alt="TypeScript" width="20" src="https://github.com/caioreix/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
 </p>
-
+  
 <p align="center">
-<image align="center" alt="github most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioreix&layout=compact&langs_count=8"/>
-<image align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=caioreix&show_icons=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=caioreix&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioreix&layout=compact&langs_count=16&theme=algolia"/>
 </p>
 
 <p align="center">
-<a title="twitter" href="https://twitter.com/caioreix" target="_blank">
-<image alt="twitter" src="https://image.flaticon.com/icons/svg/145/145812.svg" width="40px"></image> 
-</a>
-<a title="instagram" href="https://instagram.com/caioreix" target="_blank">
-<image alt="instagram" src="https://image.flaticon.com/icons/svg/187/187207.svg" width="40px"></image> 
-</a>
-<a title="twitch" href="https://twitch.tv/caioreix" target="_blank">
-<image alt="twitch" src="https://image.flaticon.com/icons/svg/356/356001.svg" width="40px"></image> 
-</a>
-<a title="linkedin" href="https://br.linkedin.com/in/caio-alexandre-reis-de-almeida-8276171b2" target="_blank">
-<image alt="linkedin" src="https://image.flaticon.com/icons/svg/187/187185.svg" width="40px"></image> 
-</a>
+  <a href="https://linkedin.com/in/caioreix" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href ="mailto: caioreix@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href ="https://instagram.com/caioreix/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
