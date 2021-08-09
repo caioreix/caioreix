@@ -31,11 +31,11 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioreix&layout=compact&langs_count=16&theme=algolia"/>
 </p>
 
-
-<a href="https://linkedin.com/in/caioreix" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href ="mailto: caioreix@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href ="https://instagram.com/caioreix/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
+<p align="center">
+  <a href="https://linkedin.com/in/caioreix" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href ="mailto: caioreix@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href ="https://instagram.com/caioreix/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</p>
 
 <p align="center">
   <img src="https://github.com/caioreix/caioreix/blob/master/img/github-user-contribution.svg"/>
