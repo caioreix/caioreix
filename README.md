@@ -38,5 +38,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/caioreix/caioreix/blob/master/img/github-user-contribution.svg"/>
+  <img src="https://github.com/caioreix/caioreix/blob/main/img/github-user-contribution.svg"/>
 </p>
