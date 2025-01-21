@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Caio</h1>
 <h3 align="center">I'm a Brazilian BackEnd Developer.</h3>
 <p align='center'>
-  <a href="#"><img src="https://badges.strrl.dev/visits/caioreix/caioreix"></a>
-  <a href="#"><img src="https://badges.strrl.dev/repos/caioreix"></a>
-  <!--<a href="#"><img src="https://badges.strrl.dev/gists/caioreix"></a> -->
+  <a href="https://github.com/caioreix"><img src="https://badges.strrl.dev/visits/caioreix/caioreix"></a>
+  <a href="https://github.com/caioreix?tab=repositories"><img src="https://badges.strrl.dev/repos/caioreix"></a>
+  <a href="https://gist.github.com/caioreix"><img src="https://badges.strrl.dev/gists/caioreix"></a>
 </p>
 
 <p align="center">
